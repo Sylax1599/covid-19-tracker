@@ -1,0 +1,42 @@
+.container{
+    margin-top: 30px;
+    margin-bottom: 60px;
+
+    width: 90%;
+}
+
+.card{
+    margin: 0 2% !important;
+    
+}
+.fecha{
+    font-size: 1rem;
+
+}
+
+.fuente{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(82, 82, 82)
+}
+.infected{
+    border-bottom: 10px solid rgba(255, 72, 0, 0.897);
+}
+
+.recovered{
+    border-bottom: 10px solid rgba(0, 225, 0, 0.7);
+}
+
+.deaths{
+    border-bottom: 10px solid rgba(255, 0, 0, 0.7);
+}
+
+
+@media (max-width: 770px){
+    .container{
+        width: 80%;
+    }
+    .card{
+        margin: 1% 0 !important;
+        width: 70%;
+    }
+}
