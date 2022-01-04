@@ -1,15 +1,17 @@
+# Covid-19 Tracker App
 
-# COVID-19 Tracker, REACT JS
-# Getting Started with Create React App
+Link demo: [Covid-19Tracker](https://tracking-app-covid-19-react.netlify.app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://tracking-app-covid-19-react.netlify.app/static/media/logo.71cfac5a.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; width: 60%; height: 60% "/>
 
-## Available Scripts
 
-In the project directory, you can run:
+## Tecnologías usadas
 
-### `yarn start`
+### React
+<img src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; width: 30%; height: 30% "/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
